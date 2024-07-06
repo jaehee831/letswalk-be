@@ -1,0 +1,26 @@
+{
+  "name": "madcamp2",
+  "version": "1.0.0",
+  "description": "it will help you walk around",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joseph1723/Mapcamp2_back.git"
+  },
+  "keywords": [
+    "walk"
+  ],
+  "author": "Donggeun Kim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joseph1723/Mapcamp2_back/issues"
+  },
+  "homepage": "https://github.com/joseph1723/Mapcamp2_back#readme",
+  "dependencies": {
+    "14": "^1.0.1"
+  }
+}
