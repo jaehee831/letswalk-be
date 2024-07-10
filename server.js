@@ -40,8 +40,6 @@ router.post('/pointslist', async (req, res) => {
     res.status(201).json(pointList);
   } catch (err) {
     console.error(err);
-    
-    console.log("Error occured here!!!!!!!!!!!!!!!!!!!!!!");
     res.status(500).json({ error: 'Server error' });
   }
 });
