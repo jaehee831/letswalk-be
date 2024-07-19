@@ -21,6 +21,10 @@
   },
   "homepage": "https://github.com/joseph1723/Mapcamp2_back#readme",
   "dependencies": {
-    "14": "^1.0.1"
+    "14": "^1.0.1",
+    "cors": "^2.8.5",
+    "multer": "^1.4.5-lts.1",
+    "node-dijkstra": "^2.5.0",
+    "node-fetch": "^3.3.2"
   }
 }
